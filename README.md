@@ -5,7 +5,7 @@
 - 📫 Reach me at fav.da24@gmail.com or Thread @favian_michael
 
 Tutorials:
-1. [Python](
+1. [Seaborn](https://github.com/fav-da24/myTutorial/tree/main/Seaborn-Tutorial)
 
 <!---
 fav-da24/fav-da24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
