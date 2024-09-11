@@ -5,7 +5,14 @@
 - 📫 Reach me at fav.da24@gmail.com or Thread @favian_michael
 
 Tutorials:
-1. [Seaborn](https://github.com/fav-da24/myTutorial/tree/main/Seaborn-Tutorial)
+1. [MySQL](https://github.com/fav-da24/myTutorial/tree/main/SQL-Lesson)
+2. [Python](https://github.com/fav-da24/myTutorial/tree/main/Python-Tutorial)
+3. [Pandas](https://github.com/fav-da24/myTutorial/tree/main/Pandas-Tutorial)
+4. [Seaborn](https://github.com/fav-da24/myTutorial/tree/main/Seaborn-Tutorial)
+
+
+
+
 
 <!---
 fav-da24/fav-da24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
